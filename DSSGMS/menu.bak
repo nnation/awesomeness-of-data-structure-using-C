@@ -1,0 +1,41 @@
+/*################################################<
+>>> *Authors: Jhunelle Jueridini                <<<
+>>>           Nathaniel Nation        0701989   <<<
+>>>           Claudia-Ann Gray                  <<<
+>>>           Dave Taylor                       <<<
+>>>                                             <<<
+>>> Lecture/Tutor: Mr. Christopher Slowley      <<<
+***************************************************/
+
+			    	//** Menu's Implementation File**//
+#include <stdio.h>
+#include <conio.h>
+
+
+int menu()
+{
+   int selection;
+   clrscr();
+   textcolor(BLACK + 6);
+	cprintf("\r\n\n\n        _______________________________________________________________"
+      	 "\r\n            ||       DS Student Grades Management System         ||"
+          "\r\n            ||       ===================================         ||"
+          "\r\n            ||                                                   ||"
+   		 "\r\n            || 1. Initialise list                                ||"
+   		 "\r\n            || 2. Add a student record                           ||"  // I
+   		 "\r\n            || 3. Delete a student record                        ||"  // Jhunelle
+   		 "\r\n            || 4. View/Edit a student record                     ||"  // Pedroy
+   		 "\r\n            || 5. Display all students records (sorted by name)  ||"  // I
+   		 "\r\n            || 6. Store student records to a text file           ||"  // Claudia
+   		 "\r\n            || 7. Retrieve student records from a text file      ||"  // Dave
+   		 "\r\n            || 8. Set/Change password                            ||"  // Jhunelle
+          "\r\n            || 9. Exit                                           ||"
+          "\r\n            ||                                                   ||"
+   		 "\r\n            || Please enter your selection:                      ||"
+          "\r\n        _______________________________________________________________");
+
+    gotoxy(45,18);
+    scanf("%d", &selection);
+    clrscr();
+    return selection;
+}

@@ -1,0 +1,28 @@
+/*################################################<
+>>> *Authors: Nathaniel Nation        0701989   <<<
+>>>           Pedroy	Garvey			  0502891   <<<
+>>>           Jhunelle Jueridini      0702252   <<<
+>>>           Claudia-Ann Gray        0702011   <<<
+>>>			  Dwight McMorris			  0806427   <<<
+>>>           Dave Taylor             0601747   <<<
+>>>                                             <<<
+>>> Lecture/Tutor: Mr. Christopher Slowley      <<<
+***************************************************/
+
+			    	//** FileOpen Implementation File**//
+#include <stdio.h>
+#include <conio.h>
+
+
+/* A file opening function*/
+FILE* fileOpen(char filename[], char mode[])
+{
+	FILE *filePtr;  /* declear file opening type*/
+
+   /* condition for opening file*/
+   if((filePtr=fopen(filename,mode))==0){
+   	printf("\aERROR opening file!");   // error message if file cannot open
+      getch();         //
+   }/* end if*/
+   return filePtr;  /* return file to function call*/
+}/* end function fileopen*/

@@ -1,0 +1,134 @@
+List of all Student on Record
+
+ID#: 1112
+First Name: Beyonce
+Last Name: Burke
+Test 1: 67.00
+Test 2: 67.00
+Assignment Score: 67.00
+Lab Test Score: 67.00
+Final Exam Score: 67.00
+Overall Course Average: 67.00
+Grade Letter: B-
+
+ID#: 1115
+First Name: Tom
+Last Name: Sowyer
+Test 1: 78.00
+Test 2: 78.00
+Assignment Score: 78.00
+Lab Test Score: 78.00
+Final Exam Score: 78.00
+Overall Course Average: 78.00
+Grade Letter: B+
+
+ID#: 1116
+First Name: Tom
+Last Name: Saywer
+Test 1: 89.00
+Test 2: 89.00
+Assignment Score: 89.00
+Lab Test Score: 89.00
+Final Exam Score: 89.00
+Overall Course Average: 89.00
+Grade Letter: A-
+
+ID#: 1117
+First Name: Nicky
+Last Name: James
+Test 1: 67.00
+Test 2: 67.00
+Assignment Score: 67.00
+Lab Test Score: 67.00
+Final Exam Score: 67.00
+Overall Course Average: 67.00
+Grade Letter: B-
+
+ID#: 1111
+First Name: Sherian
+Last Name: Mitchell
+Test 1: 56.00
+Test 2: 56.00
+Assignment Score: 56.00
+Lab Test Score: 56.00
+Final Exam Score: 56.00
+Overall Course Average: 56.00
+Grade Letter: C
+
+ID#: 1118
+First Name: Jim
+Last Name: Jones
+Test 1: 67.00
+Test 2: 67.00
+Assignment Score: 67.00
+Lab Test Score: 67.00
+Final Exam Score: 67.00
+Overall Course Average: 67.00
+Grade Letter: B-
+
+ID#: 1119
+First Name: Christopher
+Last Name: Slowley
+Test 1: 67.00
+Test 2: 67.00
+Assignment Score: 67.00
+Lab Test Score: 67.00
+Final Exam Score: 67.00
+Overall Course Average: 67.00
+Grade Letter: B-
+
+ID#: 1114
+First Name: Valarie
+Last Name: Steer
+Test 1: 67.00
+Test 2: 67.00
+Assignment Score: 67.00
+Lab Test Score: 67.00
+Final Exam Score: 67.00
+Overall Course Average: 67.00
+Grade Letter: B-
+
+ID#: 1113
+First Name: Nicolette
+Last Name: Nation
+Test 1: 78.00
+Test 2: 78.00
+Assignment Score: 78.00
+Lab Test Score: 78.00
+Final Exam Score: 78.00
+Overall Course Average: 78.00
+Grade Letter: B+
+
+ID#: 1120
+First Name: Jimmy
+Last Name: Newtron
+Test 1: 100.00
+Test 2: 100.00
+Assignment Score: 100.00
+Lab Test Score: 100.00
+Final Exam Score: 100.00
+Overall Course Average: 100.00
+Grade Letter: A+
+
+ID#: 1121
+First Name: Natasha
+Last Name: Vassell
+Test 1: 65.00
+Test 2: 78.00
+Assignment Score: 89.00
+Lab Test Score: 90.00
+Final Exam Score: 100.00
+Overall Course Average: 84.40
+Grade Letter: A-
+
+ID#: 1122
+First Name: Open
+Last Name: Last
+Test 1: 45.00
+Test 2: 0.45
+Assignment Score: 0.45
+Lab Test Score: 0.45
+Final Exam Score: 0.45
+Overall Course Average: 9.36
+Grade Letter: U
+

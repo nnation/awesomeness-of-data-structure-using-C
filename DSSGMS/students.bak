@@ -1,0 +1,38 @@
+/*################################################<
+>>> *Authors: Jhunelle Jueridini                <<<
+>>>           Nathaniel Nation        0701989   <<<
+>>>           Claudia-Ann Gray                  <<<
+>>>           Dave Taylor                       <<<
+>>>                                             <<<
+>>> Lecture/Tutor: Mr. Christopher Slowley      <<<
+***************************************************/
+
+			    	//**Header File**//
+
+struct Student {
+	int id;
+   char fname[15];
+   char lname[15];
+   float test1_sc;
+   float test2_sc;
+   float ass_sc;
+   float lab_test_sc;
+   float fin_ex_sc;
+   float overall_co_ave;
+   char grade_letter[3];
+};
+
+
+typedef struct Studentnode{
+   struct Student rec;
+	struct Studentnode *next;
+}STUDENT;         /* synonym for Studentnode */
+
+
+int menu(void);
+void addstudent(void);
+//void entstudrec(FILE *stufPtr);
+void insertStudNode(STUDENT **headptr, struct Student);
+void studentgradeletter(struct Student *sPtr);
+
+
